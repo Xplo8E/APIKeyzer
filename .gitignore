@@ -1,0 +1,6 @@
+cmd/apiKeyzer/main_test.go
+internal/detector/detector_test.go
+internal/input/validator_test.go
+internal/input/parser_test.go
+internal/validator/services/googlemaps_test.go
+tests/*
