@@ -15,6 +15,11 @@
                                       @Xplo8E
 ```
 
+## Install
+```
+go install github.com/Xplo8E/APIKeyzer/cmd/apiKeyzer@latest
+```
+
 ## Usage
 ```
 Examples:
